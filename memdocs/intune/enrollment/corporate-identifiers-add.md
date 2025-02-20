@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: Add corporate identifiers to Intune
+title: Add identifiers to Intune
 description: Add corporate identifiers (enrollment method, IMEI, and serial numbers) to Microsoft Intune.
 keywords:
 author: Lenewsad
